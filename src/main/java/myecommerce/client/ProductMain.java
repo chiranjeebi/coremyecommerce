@@ -12,6 +12,8 @@ import com.myecommerce.service.impl.ProductServiceImpl;
 public class ProductMain {
 	public static void main(String[] args) {
 
+		
+		 //dynamic polymorphism in java 
 		ProductService productService = new ProductServiceImpl();
 		while (true) {
 			createMenu();
