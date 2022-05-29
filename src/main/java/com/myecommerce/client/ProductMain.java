@@ -1,4 +1,4 @@
-package com.myecommerce.client;
+package src.main.java.com.myecommerce.client;
 
 import java.util.List;
 import java.util.Scanner;
